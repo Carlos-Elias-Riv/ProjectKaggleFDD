@@ -47,7 +47,7 @@
 	// "shutdownAction": "none",
 
 	// Uncomment the next line to run commands after the container is created.
-	"postCreateCommand":" git config --global user.name uumami && git config --global user.email vazcorm@gmail.com",
+	"postCreateCommand":" git config --global user.name carlos-elias-riv && git config --global user.email carlos.rivera311202@gmail.com",
 
 	// Configure tool-specific properties.
 	// "customizations": {},
